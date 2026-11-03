@@ -1,0 +1,21 @@
+Student_ID,Student_Name,Enrollment_Date,Region,Attendance_Pct,Exam_Score
+101,  john Smith ,2024-01-15,East,85.0,92.5
+102,ALICE JOHNSON,01/16/2024,West,90.0,88.0
+102,ALICE JOHNSON,01/16/2024,West,90.0,88.0
+103,Robert Brown,2024-01-17,,78.0,
+104,  emily DAVIS,2024-01-18,North,,95.0
+105,Michael Wilson,,South,88.0,70.0
+106,SARAH CONNOR,2024-01-20,east,92.0,81.0
+107,david miller  ,2024-01-21,West,65.0,58.0
+108,JAMES TAYLOR,2024/01/22,NORTH,95.0,99.0
+109,Jessica Taylor,2024-01-23,South,-15.0,84.0
+110,Daniel Anderson,2024-01-24,East,82.0,150.0
+111,Laura White,2024-01-25,West,100.0,-50.0
+112,kevin thomas,2024-01-26,North,74.0,76.5
+112,kevin thomas,2024-01-26,North,74.0,76.5
+113,  Amanda Martin,2024-01-27,south,91.0,89.0
+114,Brian Jackson,2024-01-28,East,,
+115,Megan Clark,2024-01-29,,85.0,91.0
+116,STEVEN LEWIS,2024-01-30,West,88.0,84.0
+116,STEVEN LEWIS,2024-01-30,West,88.0,84.0
+117,  Rachel Lee  ,2024-01-31,North,96.0,93.0
